@@ -1,0 +1,28 @@
+A história de TOSHIRO SHIBAKITA: utilização de data center (local) até o armazenamento em Nuvem Pública
+
+
+  A estória fictícia de Toshiro Shibakita, comerciante da cidade de Jaboticabal/SP foi utilizada no módulo Docker: Utilização Prática no Cenário de Microsserviços do curso Linux do zero como forma prática de explicação do uso de nuvem pública e microsserviços como solução para as seguintes demandas: 
+
+	- Elevados custos de mão de obra especializada para garantir a segurança da informação, tanto lógica como física.
+	- Custo elevado de hardwares, principalmente os servidores.
+	- Custo elevados de uso e manutenção de fontes da energia elétrica e refrigeração dos equipamentos.
+
+ Através da consultoria da profissional de TI da estória, as vantagens apresentadas ao empresário foram as seguintes:
+ 
+  - Vários players de serviços em nuvem: Amazon, Microsoft, Oracle entre outros;
+	- Custos apenas do período e da quantidade de máquinas utilizadas;
+  - Estabilidade;
+	- Escalabilidade; 
+	- Performance.
+
+Glossário do sistema Docker:
+
+
+Microsserviços é a recente modalidade de arquitetura de software que constrói aplicações e as desmembram em serviços independentes, agilizando os processos utilizando vários servidores que se integram  de softwares de  de comunicação suportados por diversas linguagens de programação.
+
+Clusters são computadores ou servidores que trabalham em conjuntos integrando um único sistema e cada integrante é conhecido como nó.
+
+Docker swarm é um grupo de Host Docker que fornece instruções e agendamento de carga de trabalho em contêineres.
+
+Contêiner é um ambiente isolado do servidor que carrega os seus próprios produtos ou serviços e que caso tenha problemas ou esteja carregado, pode ser alocado em outro local. 
+
